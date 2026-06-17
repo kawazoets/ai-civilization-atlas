@@ -1,6 +1,6 @@
 # AI Civilization Atlas
 
-Observing the Structures Behind AI
+Observing the Structures of the AI Age
 
 ---
 
