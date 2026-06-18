@@ -1,5 +1,3 @@
-# Observation 001
-
 # Applied Materials and the Physical Expansion of AI Infrastructure
 
 Applied Materials announced a major expansion of its manufacturing operations in Singapore, including a new campus in Tampines supported by approximately US$500 million in investment.
