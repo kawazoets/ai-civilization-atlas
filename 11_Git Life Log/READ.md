@@ -1,5 +1,3 @@
-This Research Log records the early ideas behind Git Life Log.
+This log records how Git Life Log started.
 
-Rather than discussing the book itself, it captures how the concept gradually emerged through conversations about Observation History, curiosity, meaning, and the continuous updating of one's understanding of life.
-
-The purpose is to preserve the evolution of the idea before the manuscript is written.
+It is a place to keep notes on how the idea emerged, how it may grow into a book, and how the concept changes along the way.
