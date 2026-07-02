@@ -89,7 +89,7 @@ The question increasingly becomes:
 
 ## A Broader Infrastructure Signal
 
-What makes this observation particularly interesting is that the potential expansion of the AST facility is not occurring in isolation.
+What makes this observation particularly interesting is that the potential expansion of the facility is not occurring in isolation.
 
 In recent months, Singapore has also seen continued investment across semiconductor and AI-related infrastructure, including new manufacturing and technology facilities.
 
@@ -97,7 +97,7 @@ Viewed individually, these projects may appear unrelated.
 
 Viewed collectively, they suggest a broader commitment to positioning Singapore within the global AI infrastructure supply chain.
 
-From this perspective, the rumored AST expansion is not merely a factory story.
+From this perspective, the rumored the expansion is not merely a factory story.
 
 It may be one small component within a much larger infrastructure buildout.
 
