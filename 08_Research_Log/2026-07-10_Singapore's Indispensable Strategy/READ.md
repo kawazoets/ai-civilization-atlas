@@ -92,4 +92,4 @@ Singapore is concentrating bottleneck industries that are becoming increasingly 
 
 Although I have been connected with Singapore for more than twenty years, only recently have I begun to see semiconductors, pharmaceuticals, and aircraft MRO not as separate industries, but as components of the same national design.
 
-This Research Log records that change in my perspective.
+This Research Log records how two decades of observation finally converged into a single understanding of Singapore's national strategy.
