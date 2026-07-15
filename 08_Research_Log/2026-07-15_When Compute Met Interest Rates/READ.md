@@ -1,12 +1,12 @@
-#When Compute Met Interest Rates
+# When Compute Met Interest Rates
 
-Why I Started Thinking About Interest Rates Differently
+## Why I Started Thinking About Interest Rates Differently
 
 I originally started studying Japanese real estate.
 
 The topic was simple.
 
-Interest rates.
+**Interest rates.**
 
 At first, I thought this was merely a discussion about housing loans and property investment.
 
@@ -38,7 +38,7 @@ Instead, they may increasingly function as liquidity events for founders, employ
 
 If that is true, another question immediately follows.
 
-Where does AI-created wealth go after liquidity?
+**Where does AI-created wealth go after liquidity?**
 
 Does it return to the next generation of AI companies?
 
@@ -54,7 +54,9 @@ This was the moment I realized that the real subject was no longer interest rate
 
 It was the movement of capital itself.
 
-Learning Note
+---
+
+## Learning Note
 
 Today I realized that collecting knowledge is no longer the difficult part.
 
@@ -64,8 +66,8 @@ The real challenge is connecting these subjects into a single structure.
 
 Perhaps the most valuable research question is not:
 
-"What is interest?"
+**"What is interest?"**
 
 but
 
-"How does capital move through the AI economy?"
+**"How does capital move through the AI economy?"**
