@@ -1,4 +1,5 @@
 # FRB Notes
+Understanding Capital Through the Federal Reserve Balance Sheet
 
 This section documents my study of the Federal Reserve from the perspective of capital, liquidity, and monetary systems.
 
